@@ -3,7 +3,7 @@ import torch
 from transformers import pipeline
 
 app = Flask(__name__)
-
+ 
 print("Loading IBM Granite 3.0 2B Instruct Model...")
 pipe = pipeline(
     "text-generation",
