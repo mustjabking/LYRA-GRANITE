@@ -1,6 +1,6 @@
 # Lyramoon Meta Llama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 2 Hours)
-**Active URL:** [https://marcus-brandon-sentence-conduct.trycloudflare.com](https://marcus-brandon-sentence-conduct.trycloudflare.com)
+**Active URL:** [https://curtis-plasma-capability-wan.trycloudflare.com](https://curtis-plasma-capability-wan.trycloudflare.com)
 
-_Last Updated: Thu Oct 15 16:37:38 UTC 2026_
+_Last Updated: Thu Oct 15 21:08:17 UTC 2026_
