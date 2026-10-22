@@ -1,6 +1,6 @@
 # Lyramoon Meta Llama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 2 Hours)
-**Active URL:** [https://amendment-nose-hardwood-advertisers.trycloudflare.com](https://amendment-nose-hardwood-advertisers.trycloudflare.com)
+**Active URL:** [https://amplifier-src-cost-arrivals.trycloudflare.com](https://amplifier-src-cost-arrivals.trycloudflare.com)
 
-_Last Updated: Wed Oct 21 22:52:50 UTC 2026_
+_Last Updated: Thu Oct 22 02:10:33 UTC 2026_
