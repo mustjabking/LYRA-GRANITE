@@ -1,6 +1,6 @@
 # Lyramoon Meta Llama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 2 Hours)
-**Active URL:** [https://phrase-lay-decade-building.trycloudflare.com](https://phrase-lay-decade-building.trycloudflare.com)
+**Active URL:** [https://camps-speaks-rough-machine.trycloudflare.com](https://camps-speaks-rough-machine.trycloudflare.com)
 
-_Last Updated: Sat Oct 24 17:05:27 UTC 2026_
+_Last Updated: Sat Oct 24 19:56:06 UTC 2026_
