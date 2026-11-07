@@ -1,6 +1,6 @@
 # Lyramoon Meta Llama AI Agent
 
 ### 🚀 Live Demo (Auto-Updated Every 2 Hours)
-**Active URL:** [https://african-recognition-county-acm.trycloudflare.com](https://african-recognition-county-acm.trycloudflare.com)
+**Active URL:** [https://trembl-merger-marathon-auctions.trycloudflare.com](https://trembl-merger-marathon-auctions.trycloudflare.com)
 
-_Last Updated: Sat Nov  7 03:30:14 UTC 2026_
+_Last Updated: Sat Nov  7 10:47:09 UTC 2026_
